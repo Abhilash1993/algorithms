@@ -1,5 +1,5 @@
-# react-setup-w3
-React setup with webpack 3
+# Algorithms:
+Implementation of basic algorithms 
 
 #### take a pull
 #### npm install
