@@ -1,6 +1,5 @@
 # Algorithms:
-Implementation of basic algorithms 
-
+Implementation of basic algorithms (development stage)
 #### take a pull
 #### npm install
 #### npm start
